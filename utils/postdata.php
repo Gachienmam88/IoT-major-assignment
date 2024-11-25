@@ -15,7 +15,7 @@ function sendEmail($recipientEmail, $message)
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
         $mail->Username = 'chipchip7a2@gmail.com'; // Gmail của bạn
-        $mail->Password = 'your_app_password';   // Mật khẩu ứng dụng của bạn
+        $mail->Password = 'vzue ijsf bxhe ooko';   // Mật khẩu ứng dụng của bạn
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
